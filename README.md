@@ -1,4 +1,16 @@
 
+---
+title: Pencil Sketch Converter
+emoji: ✏️
+colorFrom: gray
+colorTo: black
+sdk: gradio
+sdk_version: 5.3.2
+app_file: app.py
+pinned: false
+license: apache-2.0
+---
+
 # ✏️ Pencil Sketch Converter
 
 A simple and fun web app built with Gradio that converts your photos into pencil sketch-style images using OpenCV. Upload any image or try the built-in examples to see realistic hand-drawn sketch effects created through grayscale conversion, edge enhancement, and contrast adjustment.
