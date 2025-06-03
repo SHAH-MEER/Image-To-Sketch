@@ -3,7 +3,7 @@
 title: Pencil Sketch Converter
 emoji: ✏️
 colorFrom: gray
-colorTo: black
+colorTo: gray
 sdk: gradio
 sdk_version: 5.3.2
 app_file: app.py
