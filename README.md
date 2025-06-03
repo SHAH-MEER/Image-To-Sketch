@@ -29,6 +29,6 @@ A simple and fun web app built with Gradio that converts your photos into pencil
 
 ## 🖼 Example
 
-| Original                          | Stylized |
-|-----------------------------------|----------|
-| ![original](examples/parrot.jpeg) | ![stylized](examples/stylized.webp) |
+| Original                          | Stylized                          |
+|-----------------------------------|-----------------------------------|
+| ![original](examples/parrot.jpeg) | ![stylized](examples/sketch.webp) |
