@@ -15,4 +15,8 @@ A simple and fun web app built with Gradio that converts your photos into pencil
 2. The app automatically applies the sketch effect.
 3. Download or share your pencil sketch!
 
+
+| Original                          | Stylized                          |
+|-----------------------------------|-----------------------------------|
+| ![original](examples/parrot.jpeg) | ![stylized](examples/sketch.webp) |
 ---
